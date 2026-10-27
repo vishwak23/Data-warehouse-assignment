@@ -1,1 +1,10 @@
+### Visual Workflow
+![Orange Canvas](images/orange1.png)
 
+![Orange Canvas](images/orange2.png)
+
+![Orange Canvas](images/orange3.png)
+
+git add .
+git commit -m "Added screenshots to markdown files"
+git push origin main
